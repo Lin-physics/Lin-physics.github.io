@@ -10,7 +10,7 @@
 
 如果你阅读了下面任何一本讲义时，发现了错误；或者阅读后有任何想与我讨论的，欢迎随时email me！如果有机会线下见面，记得也告诉我，我请你喝咖啡 ☕️
 
-- #link("content/lectures/lec_files/cft_em.pdf","经典场论")
+- #link("cft_em.pdf","经典场论")
 
 - 中文文档
   - #link("website-config/", "网站配置")
