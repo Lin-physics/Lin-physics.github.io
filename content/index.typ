@@ -12,7 +12,7 @@
 ]
 
 #tufted.margin-note({
-  image("imgs/bilibili_code.JPG")
+  image("imgs/gzh_code.JPG")
 })
 
 #tufted.margin-note[
