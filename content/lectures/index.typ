@@ -1,6 +1,6 @@
 #import "../index.typ": template, tufted
 #show: template.with(
-  title: "Lectures",
+  title: "讲义",
   description: "Some lecture notes I wrote",
 )
 
@@ -16,7 +16,10 @@
 - #link("cft_em.pdf","经典场论-电磁场")
   - 主要参考中科大陶鑫老师的_电动力学讲义_，写得很好！有部分内容来自我电动力学老师的课件，以及郭硕鸿《电动力学》
   - 如果你厌倦了传统的电动力学讲法(数学物理方法习题课+工科电磁场)，不妨试着从演绎法开始，你会发现新世界的
-
 - #link("qm_notes.pdf","量子力学笔记")
   - 这本笔记是参照David J. Griffiths的量子力学做的，QM新手可以看看这本书，写得很友好
   - 微扰理论没写完，抱歉是我太懒了😭
+- #link("clas_mech.pdf","理论力学讲义")
+  - 初学完理论力学后马上写了这本讲义，因为它实在是太美了
+  - 刚体理论没写，日后有时间补上(最好有时间)
+  - 推荐所有人看高显老师的《经典力学》，我心目中中文经典力学教材的Top 1!
