@@ -26,7 +26,7 @@
 - #link("gr_notes.pdf","广义相对论笔记")
   - 本笔记是2025年春季学习参加学院的GR研讨班期间做的，主要参考MIT公开课#footnote[课程链接：#link("https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/")]，内容写到引力辐射就没写了
   - 我真的很爱GR😞，但是我未来的科研应该和它没啥关系了
-- #link("lectures/atom_phys.pdf","原子物理学复习讲义")
+- #link("atom_phys.pdf","原子物理学复习讲义")
   - 这是我学习原子物理学那一学期，自己写的用于复习的讲义
   - 在考前突击这一块已经收到不少好评💛
 
