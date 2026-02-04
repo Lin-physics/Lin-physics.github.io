@@ -10,15 +10,13 @@
 
 如果你阅读了下面任何一本讲义时，发现了错误；或者阅读后有任何想与我讨论的，欢迎随时email me！如果有机会线下见面，记得也告诉我，我请你喝咖啡 ☕️
 
-- #link("cft_em.pdf","经典场论")
+讲义文件直接点击对应带下划线的标题，即可查看和下载
 
-- 中文文档
-  - #link("website-config/", "网站配置")
-  - #link("typst-example/", "Typst 功能速览与样例")
-  - #link("github-deploy/", "GitHub 网站部署")
-  - #link("custom-styling/", "自定义样式")
-- English Documents
-  - #link("website-config-en/", "Website Configuration")
-  - #link("typst-example-en/", "Typst Example")
-  - #link("github-deploy-en/", "GitHub Deployment")
-  - #link("custom-styling-en/", "Custom Styling")
+=== 🍊 *基础理论*
+- #link("cft_em.pdf","经典场论-电磁场")
+  - 主要参考中科大陶鑫老师的_电动力学讲义_，写得很好！有部分内容来自我电动力学老师的课件，以及郭硕鸿《电动力学》
+  - 如果你厌倦了传统的电动力学讲法(数学物理方法习题课+工科电磁场)，不妨试着从演绎法开始，你会发现新世界的
+
+- #link("qm_notes.pdf","量子力学笔记")
+  - 这本笔记是参照David J. Griffiths的量子力学做的，QM新手可以看看这本书，写得很友好
+  - 微扰理论没写完，抱歉是我太懒了😭
